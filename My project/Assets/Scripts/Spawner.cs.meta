@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 7e2dcf832b2bf4d8f9826287e0e0bc1a
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - glidefinPrefab: {fileID: 1953464959518809352, guid: 7fd7973ab3fc04b7caa4fbde07e5fe78, type: 3}
+  - kelpPrefab: {fileID: 4790994352199340320, guid: c837a3e32bb514e0f9f26250971b919e, type: 3}
+  - dartfishPrefab: {fileID: 2572394138983825903, guid: 80abf1485be9d4ea9a4e88b8d7a0042e, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
